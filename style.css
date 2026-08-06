@@ -1,0 +1,137 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+    background: #fff !important;
+}
+
+.navbar-brand {
+    color: #2563eb;
+    font-weight: bold;
+    font-size: 28px;
+}
+
+.navbar-brand:hover {
+    color: #2563eb;
+}
+
+.nav-link {
+    color: #666;
+    margin-left: 15px;
+}
+
+.nav-link:hover {
+    color: #2563eb;
+}
+
+.btn-primary {
+    padding: 8px 20px;
+    border-radius: 8px;
+}
+
+section {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding: 100px;
+}
+
+#hero {
+    background-image: url("img/portada.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 100px 0;
+    padding-left: 80px;
+}
+
+#hero h2 {
+    font-size: 14px;
+    color: aliceblue;
+    font-weight: bold;
+}
+
+#hero h1 {
+    color: aliceblue;
+    font-weight: bold;
+}
+
+#hero p {
+    font-size: 14px;
+    color: aliceblue;
+}
+
+#oportunidades h2 {
+    color: blue;
+    font-size: 14px;
+    text-align: center;
+    font-weight: bolder;
+    margin-top: 20px;
+}
+
+#oportunidades h1 {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+#oportunidades p {
+    font-size: 14px;
+    color: darkgrey;
+}
+
+.card {
+    padding: 20px;
+}
+
+.card-body {
+    padding: 25px;
+}
+
+.card-title {
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+.card-text {
+    line-height: 1.6;
+}
+
+#comunidad h2 {
+    color: blue;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+#comunidad {
+    padding: 50px;
+}
+
+#comunidad h1 {
+    font-weight: bold;
+
+}
+
+#experiencia h2 {
+    color: blue;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+#experiencia h1 {
+    font-weight: bold;
+}
+
+#información {
+    background-color: cornflowerblue;
+}
+
+#información h2 {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+#información h1 {
+    font-weight: bold;
+}
